@@ -17,7 +17,7 @@ This project is a simple HTML-based CV for Dawid Słoniewski, showcasing skills,
 
 ## Usage
 
-To view the CV, open the `index.html` file in a web browser.
+To view the CV, open the `index.html` file in a web browser. 
 
 ## Contributing
 
